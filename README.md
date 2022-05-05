@@ -1,5 +1,5 @@
 # Sistema de Ventas – CSharp GUI y SQLServer
-Sistema Bancario en lenguaje Java GUI y base de datos PostgreSQL, Proyecto del **sexto semestre** de estudios de Ingeniería Informática, presentado el **18/11/20**.
+Sistema Bancario en lenguaje CSharp y base de datos SQLServer, Proyecto del **sexto semestre** de estudios de Ingeniería Informática, presentado el **18/11/20**.
 
 <div align="center">
 <img src="media/1-identificar-usuario.png">
